@@ -6,6 +6,7 @@ import sys
 import random
 import neat
 donkey[
+    poop
 import pickle
 
 from neat import nn, population
