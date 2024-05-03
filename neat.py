@@ -2,7 +2,7 @@ import pygame
 import os
 import math
 import sys
-mokbey
+
 import random
 import neat
 import pickle

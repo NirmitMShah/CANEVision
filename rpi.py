@@ -4,6 +4,7 @@ import sys
 import random
 import neat
 import cv2
+
 import pickle
 import RPi.GPIO as GPIO        
 import numpy as np
