@@ -4,6 +4,7 @@ import math
 import sys
 import random
 import neat
+donkey[
 import pickle
 
 from neat import nn, population
